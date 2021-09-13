@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26087" started-at="2021-09-03T11:49:31 IST" finished-at="2021-09-03T11:49:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26087" started-at="2021-09-03T11:49:31 IST" finished-at="2021-09-03T11:49:57 IST">
+      <class name="com.orghrm.qa.pageTests.UserTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orghrm.qa.pageTests.UserTest@1fc2b765]" name="setUp" is-config="true" duration-ms="10533" started-at="2021-09-03T11:49:31 IST" finished-at="2021-09-03T11:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addUser()[pri:0, instance:com.orghrm.qa.pageTests.UserTest@1fc2b765]" name="addUser" duration-ms="11911" started-at="2021-09-03T11:49:42 IST" finished-at="2021-09-03T11:49:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orghrm.qa.pageTests.UserTest@1fc2b765]" name="tearDown" is-config="true" duration-ms="3551" started-at="2021-09-03T11:49:54 IST" finished-at="2021-09-03T11:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orghrm.qa.pageTests.UserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
